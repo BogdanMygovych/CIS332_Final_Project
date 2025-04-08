@@ -1,4 +1,4 @@
-# CIS332_Software_Final
+# CIS332_Software_Final (Swiss Army App)
 
 ## 1. Team Members
 - **Bogdan Mygovych**   
@@ -35,3 +35,4 @@ Highlander Industries has hired our team to build a desktop application called *
 
 ## 6. UML Diagrams
 
+![UMI Diagram.png](UMI%20Diagram.png)
