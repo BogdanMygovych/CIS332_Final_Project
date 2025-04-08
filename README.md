@@ -29,10 +29,30 @@ Highlander Industries has hired our team to build a desktop application called *
 - As a gamer, I want to play a game like Hangman or Madlibs to stay entertained.
 - As a sports fan, I want to choose a sports team and view last season’s stats in graph form.
 - As a user, I want to see a random Bible verse with a daily image for inspiration.
-- As a user, I want to explore a bonus activity for additional engagement.
+- As a user, I want to play a fun trivia game.
 - As a user, I want to change my nickname and adjust app-wide settings in the Settings screen.
 - As a user, I want an easy-to-navigate interface.
 
 ## 6. UML Diagrams
 
 ![UMI Diagram.png](UMI%20Diagram.png)
+
+##  UI Mockups
+
+### 1. Tip Calculator
+![Tip Calculator](mockups/tip_calculator.png)
+
+### 2. Hangman Game
+![Hangman Game](mockups/hangman.png)
+
+### 3. Sports Stats Graph
+![Sports Stats](mockups/sports_stats.png)
+
+### 4. Verse of the Day
+![Verse of the Day](mockups/verse_of_the_day.png)
+
+### 5. Trivia Game
+![Custom Activity](mockups/trivia_game.png)
+
+### 6. Settings Page
+![Settings](mockups/settings.png)
