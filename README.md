@@ -1,4 +1,4 @@
-# CIS332_Software_Final
+# CIS332_Software_Final (Swiss Army App)
 
 ## 1. Team Members
 - **Bogdan Mygovych**   
