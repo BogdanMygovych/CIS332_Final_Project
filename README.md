@@ -35,3 +35,4 @@ Highlander Industries has hired our team to build a desktop application called *
 
 ## 6. UML Diagrams
 
+![UMI Diagram.png](UMI%20Diagram.png)
