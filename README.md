@@ -33,9 +33,11 @@ Highlander Industries has hired our team to build a desktop application called *
 - As a user, I want to change my nickname and adjust app-wide settings in the Settings screen.
 - As a user, I want an easy-to-navigate interface.
 
+## 6. UML Diagrams
 
+![UMI Diagram.png](UMI%20Diagram.png)
 
-## 6. UI Mockups
+## 7. UI Mockups
 
 <table>
   <tr>
