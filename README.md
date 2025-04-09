@@ -33,26 +33,34 @@ Highlander Industries has hired our team to build a desktop application called *
 - As a user, I want to change my nickname and adjust app-wide settings in the Settings screen.
 - As a user, I want an easy-to-navigate interface.
 
-## 6. UML Diagrams
 
-![UMI Diagram.png](UMI%20Diagram.png)
 
-##  UI Mockups
+## 6. UI Mockups
 
-### 1. Tip Calculator
-![Tip Calculator](mockups/tip_calculator.png)
+<table>
+  <tr>
+    <td><strong>Tip Calculator</strong></td>
+    <td><strong>Hangman Game</strong></td>
+  </tr>
+  <tr>
+    <td><img src="mockups/tip_calculator.png" width="300"/></td>
+    <td><img src="mockups/hangman.png" width="300"/></td>
+  </tr>
+  <tr>
+    <td><strong>Sports Stats</strong></td>
+    <td><strong>Verse of the Day</strong></td>
+  </tr>
+  <tr>
+    <td><img src="mockups/sports_stats.png" width="300"/></td>
+    <td><img src="mockups/verse_of_the_day.png" width="300"/></td>
+  </tr>
+  <tr>
+    <td><strong>Trivia Game</strong></td>
+    <td><strong>Settings Page</strong></td>
+  </tr>
+  <tr>
+    <td><img src="mockups/trivia_game.png" width="300"/></td>
+    <td><img src="mockups/settings.png" width="300"/></td>
+  </tr>
+</table>
 
-### 2. Hangman Game
-![Hangman Game](mockups/hangman.png)
-
-### 3. Sports Stats Graph
-![Sports Stats](mockups/sports_stats.png)
-
-### 4. Verse of the Day
-![Verse of the Day](mockups/verse_of_the_day.png)
-
-### 5. Trivia Game
-![Custom Activity](mockups/trivia_game.png)
-
-### 6. Settings Page
-![Settings](mockups/settings.png)
